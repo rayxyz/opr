@@ -1,4 +1,4 @@
 opr
 ===
 
-this is a open source repository
+this is an open source repository
